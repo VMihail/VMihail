@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ITMO University, computer science student.
 
