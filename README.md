@@ -9,7 +9,7 @@ Java developer
 # Контакты
 * email vmihail399@gmail.com
 * university email 271231@niuitmo.ru
-* telegram [@MihailDrozdov](https://t.me/MihailDrozdov)
+* telegram [@MihailDrozdov](https://t.me/VMichaeI)
 
 <!--
 **VMihail/VMihail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
