@@ -2,7 +2,7 @@
 
 ITMO University, computer science student.
 
-Java developer
+Java developer/mathematics and sports programming teacher
 
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VMihail)](https://github.com/VMihail/github-readme-stats)-->
 
