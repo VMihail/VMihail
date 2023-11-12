@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-ITMO University, computer science student.
+ITMO University, computer science student. Tinkoff java developer.
 
-Java developer/mathematics and sports programming teacher
+Mathematics and sports programming teacher.
 
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VMihail)](https://github.com/VMihail/github-readme-stats)-->
 
